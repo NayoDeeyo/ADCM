@@ -1,0 +1,38 @@
+1744576816: mosquitto version 2.0.15 starting
+1744576816: Config loaded from /mosquitto/config/mosquitto.conf.
+1744576816: Opening ipv4 listen socket on port 1883.
+1744576816: Opening ipv6 listen socket on port 1883.
+1744576816: mosquitto version 2.0.15 running
+1744576846: New connection from 172.20.0.1:56168 on port 1883.
+1744576846: New client connected from 172.20.0.1:56168 as mqtt-explorer-148e9bf6 (p2, c1, k60, u'adcm').
+1744576849: Client mqtt-explorer-148e9bf6 disconnected.
+1744576853: New connection from 172.20.0.1:56172 on port 1883.
+1744576853: New client connected from 172.20.0.1:56172 as mqtt-explorer-148e9bf6 (p2, c1, k60, u'adcm').
+1744577017: New connection from 172.20.0.1:58722 on port 1883.
+1744577017: New client connected from 172.20.0.1:58722 as mqttjs_AdcMicrosystems_SmartEnvironment_22022121 (p1, c1, k60, u'adcm').
+1744577055: New connection from 172.20.0.1:64618 on port 1883.
+1744577055: New client connected from 172.20.0.1:64618 as mqttjs_8bd4e681 (p1, c1, k60, u'adcm').
+1744577055: New connection from 172.20.0.1:64632 on port 1883.
+1744577055: New client connected from 172.20.0.1:64632 as mqttjs_45bb7745 (p1, c1, k60, u'adcm').
+1744577079: New connection from 172.20.0.1:65046 on port 1883.
+1744577079: New client connected from 172.20.0.1:65046 as mqttjs_b2e2229e (p2, c1, k60, u'adcm').
+1744577628: Client mqttjs_b2e2229e closed its connection.
+1744577628: Client mqttjs_AdcMicrosystems_SmartEnvironment_22022121 closed its connection.
+1744577628: Client mqttjs_8bd4e681 closed its connection.
+1744577628: Client mqttjs_45bb7745 closed its connection.
+1744577629: Client mqtt-explorer-148e9bf6 disconnected.
+1744609055: New connection from 172.20.0.1:59778 on port 1883.
+1744609055: New client connected from 172.20.0.1:59778 as mqttjs_b4869cab (p2, c1, k60, u'adcm').
+1744609068: New connection from 172.20.0.1:59406 on port 1883.
+1744609068: New client connected from 172.20.0.1:59406 as mqttjs_22ab9310 (p1, c1, k60, u'adcm').
+1744609068: New connection from 172.20.0.1:59412 on port 1883.
+1744609068: New client connected from 172.20.0.1:59412 as mqttjs_baa5891d (p1, c1, k60, u'adcm').
+1744609087: New connection from 172.20.0.1:63832 on port 1883.
+1744609087: New client connected from 172.20.0.1:63832 as mqttjs_AdcMicrosystems_SmartEnvironment_11221200 (p1, c1, k60, u'adcm').
+1744609492: Client mqttjs_AdcMicrosystems_SmartEnvironment_11221200 closed its connection.
+1744609495: New connection from 172.20.0.1:60228 on port 1883.
+1744609495: New client connected from 172.20.0.1:60228 as mqttjs_AdcMicrosystems_SmartEnvironment_20221110 (p1, c1, k60, u'adcm').
+1744617416: Client mqttjs_b4869cab closed its connection.
+1744617416: Client mqttjs_AdcMicrosystems_SmartEnvironment_20221110 closed its connection.
+1744617416: Client mqttjs_baa5891d closed its connection.
+1744617416: Client mqttjs_22ab9310 closed its connection.
